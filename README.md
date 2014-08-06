@@ -1,4 +1,4 @@
-* [Installation](wiki/installation)
+* [Installation](../../wiki/installation)
     * [PostInstallation](installation#wiki-post-installation)
     * [Config Changes](configuration)
     * [API Object](API-Object)

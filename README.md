@@ -10,4 +10,3 @@
 * [Api Chaining](../../wiki/API-Chaining)
 * [Troubleshooting](../../wiki/Troubleshooting)
 * [Release Notes](../../wiki/Release-Notes)
-* [Issues with WSO2](../../wiki/WSO2-Issues)

@@ -7,6 +7,6 @@
     * [Using Status Messages](../../wiki/API-Usage#wiki-using-status-messages)
 * [Apidocs](../../wiki/API-Docs)
 * [Batch Processing](../../wiki/Batch-Processing)
-* [Api Chaining](../../wiki/API-Chaining)
+* [Api Chaining](../../wiki/API-Chaining(tm))
 * [Troubleshooting](../../wiki/Troubleshooting)
 * [Release Notes](../../wiki/Release-Notes)
